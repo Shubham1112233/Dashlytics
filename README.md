@@ -1,6 +1,6 @@
 # Dashlytics
 
-Analytics-style dashboard for revenue, users, and orders. Built as a portfolio-ready [Next.js](https://nextjs.org) app with typed data validation, cached server state, and a polished light/dark UI.
+Analytics-style dashboard for revenue, users, and orders. Built with Next.js app with typed data validation, cached server state, and a polished light/dark UI.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
